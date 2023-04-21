@@ -1,0 +1,12 @@
+/* Estruturas */
+
+@import "../css/reset.css";
+@import "../css/patterns.css";
+@import "../css/grid.css";
+@import "../css/variables.css";
+
+/* Página */
+
+@import "../css/patterns.css";
+@import "../css/header.css";
+@import "../css/footer.css";

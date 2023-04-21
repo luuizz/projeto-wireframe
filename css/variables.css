@@ -1,0 +1,12 @@
+:root {
+    --primary: #F67ACB;
+    --gray-color-100: #050110;
+    --gray-color-200: #1C1D1F;
+    --gray-color-300: #393C40;
+    --gray-color-400: #5C6066;
+    --gray-color-800: #F7F8FA;
+    --gray-color-700: #E6EBF2;
+    --white: #ffffff;
+    --white-dark-400: rgba(255, 255, 255, 0.2);
+    --white-dark-800: rgba(255, 255, 255, 0.7);
+}
