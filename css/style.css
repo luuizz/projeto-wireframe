@@ -1,6 +1,5 @@
 /* Estruturas */
 
-@import "../css/responsive.css";
 @import "../css/reset.css";
 @import "../css/patterns.css";
 @import "../css/grid.css";
@@ -11,3 +10,4 @@
 @import "../css/patterns.css";
 @import "../css/header.css";
 @import "../css/footer.css";
+@import "../css/home.css";
