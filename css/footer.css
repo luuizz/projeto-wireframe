@@ -54,6 +54,11 @@ footer .main nav .item ul li a {
     font-size: 1.4rem;
     line-height: 105%;
     font-family: 'Sora', sans-serif;
+    transition: color .3s;
+}
+
+footer .main nav .item ul li a:hover {
+    color: var(--white);
 }
 
 footer .main nav .item:last-child ul li a {
